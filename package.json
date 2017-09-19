@@ -1,0 +1,19 @@
+{
+  "name": "@ericlsk/react-hello-people-style",
+  "version": "1.0.0",
+  "description": "Styling for react-hello-people",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ericlsk/react-hello-people-style.git"
+  },
+  "author": "ericlsk <ericlsk21@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ericlsk/react-hello-people-style/issues"
+  },
+  "homepage": "https://github.com/ericlsk/react-hello-people-style#readme"
+}
